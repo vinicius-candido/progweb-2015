@@ -5,11 +5,12 @@ Sources de Programação Web - Orientador: [@walisonmoreira](https://github.com/
 Exemplos: https://github.com/walisonmoreira/ufg-inf-pw-2015-2
 
 
-Alteração local - Git clonado em D:\Programação\Web\git\progweb-2015
+Goal do Maven para executar a aplicação com o Tomcat:
+
+`org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run`
 
 
 Para rodar numa porta específica, coloque o seguinte parâmetro:
-
 Nome do parâmetro: `maven.tomcat.port`
 Valor do parâmetro: `9090`
 

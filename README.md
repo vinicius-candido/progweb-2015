@@ -8,6 +8,13 @@ Exemplos: https://github.com/walisonmoreira/ufg-inf-pw-2015-2
 Alteração local - Git clonado em D:\Programação\Web\git\progweb-2015
 
 
+Para rodar numa porta específica, coloque o seguinte parâmetro:
+
+Nome do parâmetro: `maven.tomcat.port`
+Valor do parâmetro: `9090`
+
+
+
 [Template 1](http://htmlcoder.me/worthy-free-bootstrap-template)
 
 

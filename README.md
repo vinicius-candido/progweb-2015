@@ -11,10 +11,10 @@ Alteração local - Git clonado em D:\Programação\Web\git\progweb-2015
 
 *Templates do trabalho:
 
--[http://www.bootstrapzero.com/bootstrap-template/binary]
+[http://www.bootstrapzero.com/bootstrap-template/binary]
 
--[http://www.designbootstrap.com/free-bootstrap-admin-template/]
+[http://www.designbootstrap.com/free-bootstrap-admin-template/]
 
--[http://startbootstrap.com/template-overviews/sb-admin/]
+[http://startbootstrap.com/template-overviews/sb-admin/]
 
 
